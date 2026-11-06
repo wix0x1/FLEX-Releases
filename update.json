@@ -1,0 +1,10 @@
+{
+  "versionCode": 168,
+  "versionName": "1.2.68",
+  "releaseNotes": "FLEX Browser Release v1.2.68 (Build v1.2.68). High-speed update downloads, smooth media playback, fast resilient downloads, detailed weather forecast, and smart address bar.",
+  "downloadUrl": "https://github.com/wix0x1/Flex-Releases/releases/download/v1.2.68/app-release.apk",
+  "sha256": "8718dbf37b0f5fe632a64d64c77c7c7cc882e143b83457dfe0a9e75ad676ddbf",
+  "minSdk": 21,
+  "apkSizeBytes": 4736596,
+  "signature": "MEYCIQC9DWBkxLVoAw7EIN5JyncYxjd64h68BvtaU52a2gw1iAIhAPasjHi5Ge1xmYvFOQq1WausD0tyTMp5EsRKoF96fYhx"
+}
